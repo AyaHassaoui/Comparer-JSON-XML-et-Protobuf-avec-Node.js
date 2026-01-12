@@ -1,0 +1,12 @@
+{
+  "name": "json-xml-protobuf-lab",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "xml-js": "^1.6.11",
+    "protobufjs": "^7.2.5"
+  }
+}
